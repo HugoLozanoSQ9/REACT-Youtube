@@ -24,3 +24,4 @@ grid-template-rows:3.2rem 1fr ;
 sirve para ir definiendo el template
 
 ESTUDIAR Grid
+
