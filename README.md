@@ -25,3 +25,6 @@ sirve para ir definiendo el template
 
 ESTUDIAR Grid
 
+## Render condicionado 
+
+npm clsx o npm classnames
